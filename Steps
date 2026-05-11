@@ -12,5 +12,40 @@
   #4a. Image Generator
     https://github.com/Comfy-Org/ComfyUI?utm_source=chatgpt.com   Code (Green) -> Download ZIP
     github.com/CompVis/stable-diffusion                           Code (Green) -> Download ZIP
+  
   #4b. Video Creation
     https://github.com/Comfy-Org/ComfyUI?utm_source=chatgpt.com   Code (Green) -> Download ZIP
+  
+  #4c. Blender
+    https://www.blender.org/?utm_source=chatgpt.com
+     
+      #4c1. Blender Add-On
+      https://github.com/gd3kr/BlenderGPT                                    (AI itself)
+      https://github.com/carson-katri/dream-textures?utm_source=chatgpt.com  (Texture)
+     
+      #4c2. 3D Model Generation
+      https://github.com/VAST-AI-Research/TripoSR?utm_source=chatgpt.com
+      https://github.com/Stability-AI/stable-fast-3d
+
+#5. Voice Model
+https://github.com/Render-AI-Team/cog-xtts
+https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI
+
+#6 Animation / Motion Capture
+https://www.deepmotion.com/?utm_source=chatgpt.com
+https://www.rokoko.com/products/vision?utm_source=chatgpt.com
+
+#7. Coding Assistance
+https://github.com/continuedev/continue
+
+#8. Assistance with compiling AI
+https://pinokio.co
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Installing Steps
+________________
+
+Install Pinokio
+-> Open Pinokio
+   Search: Open WebUI -> Install it
+
