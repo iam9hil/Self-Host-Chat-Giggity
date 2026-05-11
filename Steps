@@ -1,0 +1,16 @@
+#1. Have a competent PC
+
+#2. Download Python: https://www.python.org/
+  #2a. Check "Add python.exe to PATH"
+
+#3. Download Git: https://git-scm.com/?utm_source=chatgpt.com
+
+#4. Choose a main AI model
+  https://ollama.com/?utm_source=chatgpt.com
+  https://www.llama.com/models/llama-3/
+
+  #4a. Image Generator
+    https://github.com/Comfy-Org/ComfyUI?utm_source=chatgpt.com   Code (Green) -> Download ZIP
+    github.com/CompVis/stable-diffusion                           Code (Green) -> Download ZIP
+  #4b. Video Creation
+    https://github.com/Comfy-Org/ComfyUI?utm_source=chatgpt.com   Code (Green) -> Download ZIP
